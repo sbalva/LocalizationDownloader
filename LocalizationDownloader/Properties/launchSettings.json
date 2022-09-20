@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LocalizationDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "\"https://docs.google.com/spreadsheets/d/1zlD6zmjkGPWX_ip1q8wp-RdM8OY-XI4_crj7FUveKeE/pub?gid=1977721534&single=true&output=csv\" \"D:\\Temp\\Languages\"\r\n"
+    }
+  }
+}
